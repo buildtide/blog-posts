@@ -1,4 +1,4 @@
-# Articles from the Softnami Blog
+# Posts from the Softnami Blog
 
 You can view the posts listed here:
 
